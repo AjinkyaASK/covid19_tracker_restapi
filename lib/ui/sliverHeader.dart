@@ -1,10 +1,7 @@
-import 'dart:math';
-
 import 'package:coronavirus_tracker_global/app/methods/themeManager.dart';
 import 'package:coronavirus_tracker_global/styles/colors.dart';
 import 'package:coronavirus_tracker_global/ui/banners.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_svg/flutter_svg.dart';
 
 class Choice {
   const Choice({this.title, this.icon});
@@ -48,11 +45,6 @@ class CustomSliverHeaderDelegate extends SliverPersistentHeaderDelegate {
   @override
   Widget build(
       BuildContext context, double shrinkOffset, bool overlapsContent) {
-    double scaleFactor = 1 *
-        ((shrinkOffset + minExtent) <= maxExtent
-            ? (maxExtent / (maxExtent + shrinkOffset))
-            : 0.61);
-
     double opacityFactorFeed =
         ((maxExtent - (shrinkOffset + shrinkOffset / 1.5)) / maxExtent);
     double opacityFactor = opacityFactorFeed >= 0 ? opacityFactorFeed : 0;

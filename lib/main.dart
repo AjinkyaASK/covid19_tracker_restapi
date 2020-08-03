@@ -56,7 +56,7 @@ class Dashboard extends StatefulWidget {
 
 class DashboardState extends State<Dashboard> {
   String _lastUpdated = DateTime.now().toString();
-  String _accessToken = '';
+  //String _accessToken = '';
   int _cases = 0;
   int _active = 0;
   int _recovered = 0;
@@ -142,7 +142,7 @@ class DashboardState extends State<Dashboard> {
       );
 
       setState(() {
-        _accessToken = accessToken;
+        //_accessToken = accessToken;
         _cases = cases;
         _active = active;
         _recovered = recovered;
