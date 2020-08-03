@@ -26,7 +26,8 @@ void main() async {
         return MaterialApp(
           theme: ThemeData(
             primaryColor: Colors.teal,
-            //brightness: Brightness.dark,
+            brightness:
+                themeProvider.theme ? Brightness.dark : Brightness.light,
           ),
           debugShowCheckedModeBanner: false,
           home: App(),
