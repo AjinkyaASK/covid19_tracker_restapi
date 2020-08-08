@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/AjinkyaASK/covid19_tracker_restapi">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
+    <img src="https://raw.githubusercontent.com/AjinkyaASK/covid19_tracker_restapi/master/screenshots/Covid19TrackerApp%20-%20GitHub%20Banner.png"
          alt="Flutter">
   </a>
 </p>
