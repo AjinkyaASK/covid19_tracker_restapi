@@ -1,16 +1,77 @@
-# covid19_tracker_restapi
+<h1 align="center">
+  <br>
+  The Movies App
+  <br>
+</h1>
 
-A new Flutter project.
+<h4 align="center">A simple and elegant Movies Collection and Inventory App built with <a href="https://flutter.dev/" target="_blank">Flutter</a>.</h4>
 
-## Getting Started
+<p align="center">
+  <a href="https://github.com/AjinkyaASK/themoviesapp">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
+         alt="Flutter">
+  </a>
+</p>
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <a href="#key-features">Key Features</a> •
+  <a href="#how-to-use">How To Use</a> •
+  <a href="#download">Download</a> •
+  <a href="#credits">Credits</a> •
+  <a href="#related">Related</a> •
+  <a href="#license">License</a>
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+## Key Features
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+* Live Data for Covid-19 Pandemic
+* Pull Down to Refresh
+* Single Page UI for simplicity
+* Uses API nCoV2019 2.0.0 for the data
+* Provider
+* Dark/Light mode
+* Cross platform (iOS and Android)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+<img src="https://raw.githubusercontent.com/AjinkyaASK/covid19_tracker_restapi/master/screenshots/1.png" width='250px'
+         alt="Screenshots">
+<img src="https://raw.githubusercontent.com/AjinkyaASK/covid19_tracker_restapi/master/screenshots/2.png" width='250px'
+         alt="Screenshots">
+<img src="https://raw.githubusercontent.com/AjinkyaASK/covid19_tracker_restapi/master/screenshots/3.png" width='250px'
+         alt="Screenshots">
+
+## Download
+
+You can [download](https://github.com/AjinkyaASK/covid19_tracker_restapi/) this repository and use it free for your own purposes.
+
+## Credits
+
+This software uses the following open source packages:
+
+- [API-nCoV2019 - 2.0.0](https://www.nubentos.com/covid-19-information/)
+- [HTTP](https://pub.dev/packages/http)
+- [Intl](https://pub.dev/packages/intl)
+- [Shared Preferences](https://pub.dev/packages/shared_preferences)
+- [Provider](https://pub.dev/packages/provider)
+- [Flutter SVG](https://pub.dev/packages/flutter_svg)
+- [Flutter Automation](https://pub.dev/packages/flutter_automation)
+
+## Support
+
+(Coming Soon)
+
+## You may also like...
+
+(Coming Soon)
+
+## License
+
+NA
+
+---
+
+> GitHub [@AjinkyaASK](https://github.com/AjinkyaASK) &nbsp;&middot;&nbsp;
+> CodePen [@ajinkya-karanjikar](https://codepen.io/ajinkya-karanjikar)
+> LinkedIn [@ajinkyakaranjikar](https://in.linkedin.com/in/ajinkyakaranjikar)
+
