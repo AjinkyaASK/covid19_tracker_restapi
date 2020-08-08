@@ -1,13 +1,13 @@
 <h1 align="center">
   <br>
-  The Movies App
+  Covid-19 Tracker App
   <br>
 </h1>
 
-<h4 align="center">A simple and elegant Movies Collection and Inventory App built with <a href="https://flutter.dev/" target="_blank">Flutter</a>.</h4>
+<h4 align="center">A simple and elegant Covid-19 Tracker App that uses REST APIs built with <a href="https://flutter.dev/" target="_blank">Flutter</a>.</h4>
 
 <p align="center">
-  <a href="https://github.com/AjinkyaASK/themoviesapp">
+  <a href="https://github.com/AjinkyaASK/covid19_tracker_restapi">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
          alt="Flutter">
   </a>
