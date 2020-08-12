@@ -62,7 +62,7 @@ This software uses the following open source packages:
 (Coming Soon)
 
 ## You may also like...
-- [Covid-19 Tracker App](https://github.com/AjinkyaASK/covid19_tracker_restapi)
+- [The Movie Inventory App](https://github.com/AjinkyaASK/themoviesapp)
 - More coming Soon
 
 ## License
