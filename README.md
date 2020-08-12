@@ -62,8 +62,8 @@ This software uses the following open source packages:
 (Coming Soon)
 
 ## You may also like...
-
-(Coming Soon)
+- [Covid-19 Tracker App](https://github.com/AjinkyaASK/covid19_tracker_restapi)
+- More coming Soon
 
 ## License
 
